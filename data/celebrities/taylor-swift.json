@@ -1,0 +1,126 @@
+{
+  "id": 2,
+  "name": "Taylor Swift",
+  "slug": "taylor-swift",
+  "title": "Singer-Songwriter",
+  "bio": "Taylor Swift is one of the most successful singer-songwriters of all time, known for her narrative songs about her personal life and evolution of musical styles.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png/330px-191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png",
+  "socialMedia": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/taylorswift/"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/taylorswift13"
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/user/TaylorSwiftVEVO"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": 201,
+      "type": "tv",
+      "title": "Friends",
+      "description": "Taylor has mentioned being a big fan of the classic sitcom Friends, even naming one of her cats after Jennifer Aniston's character, Rachel.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+      "source": {
+        "name": "Ellen Show Interview",
+        "url": "https://www.youtube.com/watch?v=amCmWVE3Yg0"
+      },
+      "links": [
+        {
+          "platform": "HBO Max",
+          "url": "https://www.hbomax.com/series/urn:hbo:series:GXdbR_gOXWJuAuwEAACVH"
+        },
+        {
+          "platform": "Netflix",
+          "url": "https://www.netflix.com/title/70153404"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "type": "movie",
+      "title": "Love Actually",
+      "description": "Taylor has expressed her love for this romantic comedy ensemble film, especially during the holiday season.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNThkNjgxNGQtOTIxMy00ZTFmLWIwMDItYzE5YzM3ZDMzNDE3XkEyXkFqcGdeQXVyMzQ5ODY1Nzc@._V1_.jpg",
+      "source": {
+        "name": "Vogue 73 Questions",
+        "url": "https://www.youtube.com/watch?v=XnbCSboujF4"
+      },
+      "links": [
+        {
+          "platform": "Amazon Prime",
+          "url": "https://www.amazon.com/Love-Actually-Hugh-Grant/dp/B009CG9CXO"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "type": "music",
+      "title": "Patsy Cline - Crazy",
+      "description": "Taylor has cited Patsy Cline as one of her influences and has mentioned loving this classic song.",
+      "image": "https://m.media-amazon.com/images/I/71Yz+JJFcgL._UF1000,1000_QL80_.jpg",
+      "source": {
+        "name": "Rolling Stone Interview",
+        "url": "https://www.rollingstone.com/music/music-country/taylor-swift-on-her-love-of-patsy-cline-246818/"
+      },
+      "links": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/4Ub8UsjWuewQrPhuepSVFL"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=MbnrdCS57d0"
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "type": "tv",
+      "title": "Grey's Anatomy",
+      "description": "Taylor has mentioned being a fan of this long-running medical drama series.",
+      "image": "https://m.media-amazon.com/images/M/MV5BODA2Mjk0OWUtZGZkMS00ZjUyLWE4NjQtYzVlOGRjZThmNWVkXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_.jpg",
+      "source": {
+        "name": "Interview with Ellen DeGeneres",
+        "url": "https://www.youtube.com/watch?v=amCmWVE3Yg0"
+      },
+      "links": [
+        {
+          "platform": "Netflix",
+          "url": "https://www.netflix.com/title/70140391"
+        },
+        {
+          "platform": "Hulu",
+          "url": "https://www.hulu.com/series/greys-anatomy-67a5e2d4-0f6f-493a-8d9c-5c6ef5a371da"
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "type": "music",
+      "title": "Bruce Springsteen - Dancing In The Dark",
+      "description": "Taylor has cited Bruce Springsteen as an influence and has covered this song in concert.",
+      "image": "https://m.media-amazon.com/images/I/71RvJP7TwNL._UF1000,1000_QL80_.jpg",
+      "source": {
+        "name": "Rolling Stone Interview",
+        "url": "https://www.rollingstone.com/music/music-news/taylor-swift-bruce-springsteen-influences-1234851599/"
+      },
+      "links": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=129kuDCQtHs"
+        }
+      ]
+    }
+  ]
+}
+

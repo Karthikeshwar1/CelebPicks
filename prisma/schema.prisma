@@ -1,0 +1,34 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Celebrity {
+  id              Int              @id @default(autoincrement())
+  name            String
+  slug            String           @unique
+  title           String
+  bio             String
+  image           String
+  createdAt       DateTime         @default(now())
+  updatedAt       DateTime         @updatedAt
+  recommendations Recommendation[]
+}
+
+model Recommendation {
+  id          Int       @id @default(autoincrement())
+  type        String    // "tv", "movie", or "music"
+  title       String
+  description String
+  image       String
+  links       String    // JSON string of links
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+  celebrity   Celebrity @relation(fields: [celebrityId], references: [id])
+  celebrityId Int
+}
+

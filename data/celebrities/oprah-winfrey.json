@@ -1,0 +1,126 @@
+{
+  "id": 4,
+  "name": "Oprah Winfrey",
+  "slug": "oprah-winfrey",
+  "title": "Media Executive & Philanthropist",
+  "bio": "Oprah Winfrey is a talk show host, television producer, actress, author, and philanthropist. She is best known for her talk show, The Oprah Winfrey Show, which was the highest-rated television program of its kind.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Oprah_in_2014.jpg/330px-Oprah_in_2014.jpg",
+  "socialMedia": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/oprah/"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/Oprah"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/oprahwinfrey/"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": 401,
+      "type": "movie",
+      "title": "The Color Purple",
+      "description": "Oprah starred in this film adaptation of Alice Walker's novel and has often spoken about its significance in her career and life.",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDRkOWQ5NGUtYTVmOS00ZjNhLWEwOTctODVmMmMzNTVjMGY0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "source": {
+        "name": "Oprah's Master Class",
+        "url": "https://www.oprah.com/own-master-class/oprah-winfrey-on-the-color-purple-video"
+      },
+      "links": [
+        {
+          "platform": "HBO Max",
+          "url": "https://www.hbomax.com/feature/urn:hbo:feature:GXdu2ZwSrlsPDwgEAAABj"
+        },
+        {
+          "platform": "Amazon Prime",
+          "url": "https://www.amazon.com/Color-Purple-Danny-Glover/dp/B001EBWING"
+        }
+      ]
+    },
+    {
+      "id": 402,
+      "type": "tv",
+      "title": "Queen Sugar",
+      "description": "Oprah executive produces this drama series created by Ava DuVernay about siblings who inherit a sugarcane farm in Louisiana.",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjk0MTgzMmQtZmY2My00NmE5LWExNGUtYjZkNTA3ZDkyMTJiXkEyXkFqcGdeQXVyMTUwMDg3OTQy._V1_.jpg",
+      "source": {
+        "name": "OWN Network Announcement",
+        "url": "https://www.oprah.com/own-queensugar/queen-sugar-home"
+      },
+      "links": [
+        {
+          "platform": "Hulu",
+          "url": "https://www.hulu.com/series/queen-sugar-569f112d-1895-4e5b-886d-d35fa95f6cb2"
+        },
+        {
+          "platform": "OWN",
+          "url": "https://www.oprah.com/own-queensugar/queen-sugar-home"
+        }
+      ]
+    },
+    {
+      "id": 403,
+      "type": "music",
+      "title": "Aretha Franklin - Amazing Grace",
+      "description": "Oprah has cited Aretha Franklin as one of her favorite artists and has praised this iconic gospel recording.",
+      "image": "https://m.media-amazon.com/images/I/71Yz+JJFcgL._UF1000,1000_QL80_.jpg",
+      "source": {
+        "name": "Oprah's Favorite Things",
+        "url": "https://www.oprah.com/entertainment/oprahs-favorite-music"
+      },
+      "links": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/album/1h4VRcKC5qF8JjWd8iHlEz"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=ypHZbtqSZ5s"
+        }
+      ]
+    },
+    {
+      "id": 404,
+      "type": "movie",
+      "title": "Beloved",
+      "description": "Oprah starred in and produced this adaptation of Toni Morrison's Pulitzer Prize-winning novel.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5ODMxNzU0MV5BMl5BanBnXkFtZTcwMzI5NTUyMQ@@._V1_.jpg",
+      "source": {
+        "name": "Oprah's Book Club",
+        "url": "https://www.oprah.com/oprahsbookclub/beloved-by-toni-morrison"
+      },
+      "links": [
+        {
+          "platform": "Amazon Prime",
+          "url": "https://www.amazon.com/Beloved-Oprah-Winfrey/dp/B000GOUMW6"
+        }
+      ]
+    },
+    {
+      "id": 405,
+      "type": "music",
+      "title": "India.Arie - I Am Light",
+      "description": "Oprah has featured this song on her shows and has spoken about its inspirational message.",
+      "image": "https://m.media-amazon.com/images/I/81Qi+08xSQL._UF1000,1000_QL80_.jpg",
+      "source": {
+        "name": "SuperSoul Sunday",
+        "url": "https://www.oprah.com/own-super-soul-sunday/indiaarie-performs-i-am-light-video"
+      },
+      "links": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/1xXXLhJMmzVNTOyQaGp8gY"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=ism8dBjxKvc"
+        }
+      ]
+    }
+  ]
+}
+

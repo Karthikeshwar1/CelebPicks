@@ -1,0 +1,121 @@
+{
+  "id": 1,
+  "name": "Elon Musk",
+  "title": "Entrepreneur & CEO",
+  "bio": "Elon Musk is the CEO of SpaceX, Tesla, and several other companies. Known for his ambitious goals to reduce global warming and establish a human colony on Mars.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/330px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+  "socialMedia": [
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/elonmusk"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/elonmusk/"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": 101,
+      "type": "tv",
+      "title": "Rick and Morty",
+      "description": "Elon has mentioned being a fan of this animated sci-fi sitcom that follows the misadventures of cynical mad scientist Rick Sanchez and his good-hearted but fretful grandson Morty Smith.",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+      "source": {
+        "name": "Twitter Post",
+        "url": "https://twitter.com/elonmusk/status/1050811761927372800"
+      },
+      "links": [
+        {
+          "platform": "Netflix",
+          "url": "https://www.netflix.com/title/80014749"
+        },
+        {
+          "platform": "Hulu",
+          "url": "https://www.hulu.com/series/rick-and-morty-d76d6361-3fbf-4842-8dd7-e05520557280"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "type": "movie",
+      "title": "Spaceballs",
+      "description": "Musk has referenced this Mel Brooks sci-fi parody as one of his favorite movies, which satirizes the original Star Wars trilogy.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjVjOGQ0OTctNDhkZC00ZGNiLWI2ZGEtYjZlMWZjOTlkNDlhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+      "source": {
+        "name": "Interview with Rolling Stone",
+        "url": "https://www.rollingstone.com/culture/culture-features/elon-musk-the-architect-of-tomorrow-120850/"
+      },
+      "links": [
+        {
+          "platform": "Amazon Prime",
+          "url": "https://www.amazon.com/Spaceballs-Mel-Brooks/dp/B000I9YLMQ"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "type": "music",
+      "title": "Daft Punk - Around the World",
+      "description": "Elon has expressed appreciation for electronic music, including Daft Punk's iconic tracks.",
+      "image": "https://m.media-amazon.com/images/I/71H9ZR6EGQL._UF1000,1000_QL80_.jpg",
+      "source": {
+        "name": "Joe Rogan Experience Podcast",
+        "url": "https://open.spotify.com/episode/2XdYkPrHSLkOhEdFhsmiFS"
+      },
+      "links": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=dwDns8x3Jb4"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "type": "movie",
+      "title": "The Princess Bride",
+      "description": "Musk has mentioned this classic fantasy adventure comedy as one of his favorite films.",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzdiOTVjZmQtNjAyNy00YjA2LTk5ZTAtNmJkMGQ5N2RmNjUxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "source": {
+        "name": "Twitter Reply",
+        "url": "https://twitter.com/elonmusk/status/1054501056229588992"
+      },
+      "links": [
+        {
+          "platform": "Disney+",
+          "url": "https://www.disneyplus.com/movies/the-princess-bride/2M3sbRGaCBZG"
+        },
+        {
+          "platform": "Amazon Prime",
+          "url": "https://www.amazon.com/Princess-Bride-Cary-Elwes/dp/B00BFGF9EM"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "type": "music",
+      "title": "Kanye West - Runaway",
+      "description": "Elon has praised Kanye West's music in interviews and on social media.",
+      "image": "https://m.media-amazon.com/images/I/61ikONHVOAL._UF1000,1000_QL80_.jpg",
+      "source": {
+        "name": "Twitter Interaction",
+        "url": "https://twitter.com/elonmusk/status/1050819243630129153"
+      },
+      "links": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=VhEoCOWUtcU"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,128 @@
+{
+  "id": 3,
+  "name": "Dwayne Johnson",
+  "slug": "dwayne-johnson",
+  "title": "Actor & Producer",
+  "bio": "Dwayne 'The Rock' Johnson is an actor, producer, and former professional wrestler. He is known for his charismatic personality and roles in action films.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dwayne_Johnson_2014_%28cropped%29.jpg/330px-Dwayne_Johnson_2014_%28cropped%29.jpg",
+  "socialMedia": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/therock/"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/TheRock"
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/channel/UCLm6s42r1BtFuVZ6WjdNEVQ"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": 301,
+      "type": "tv",
+      "title": "The Office",
+      "description": "Dwayne has mentioned being a fan of this mockumentary sitcom about the everyday lives of office employees.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg",
+      "source": {
+        "name": "Instagram Post",
+        "url": "https://www.instagram.com/p/B9ZvXAFlR7t/"
+      },
+      "links": [
+        {
+          "platform": "Peacock",
+          "url": "https://www.peacocktv.com/stream-tv/the-office"
+        },
+        {
+          "platform": "Amazon Prime",
+          "url": "https://www.amazon.com/The-Office-Season-1/dp/B000U9OJLK"
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "type": "movie",
+      "title": "It's a Wonderful Life",
+      "description": "Johnson has shared that this classic film is one of his favorite holiday movies that he watches with his family.",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+      "source": {
+        "name": "Twitter Post",
+        "url": "https://twitter.com/TheRock/status/1207379214537723904"
+      },
+      "links": [
+        {
+          "platform": "Amazon Prime",
+          "url": "https://www.amazon.com/Its-Wonderful-Life-James-Stewart/dp/B000HEWEJO"
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "type": "music",
+      "title": "Metallica - Enter Sandman",
+      "description": "The Rock has shared that he listens to Metallica during his intense workout sessions, with this being one of his favorite tracks.",
+      "image": "https://m.media-amazon.com/images/I/71DQrKpImPL._UF1000,1000_QL80_.jpg",
+      "source": {
+        "name": "Workout Playlist Interview",
+        "url": "https://www.menshealth.com/fitness/a29670983/the-rock-dwayne-johnson-workout-playlist/"
+      },
+      "links": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=CD-E-LDc384"
+        }
+      ]
+    },
+    {
+      "id": 304,
+      "type": "movie",
+      "title": "The Godfather",
+      "description": "Dwayne has cited this classic film as one of his all-time favorites and an influence on his approach to storytelling.",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "source": {
+        "name": "Interview with Empire Magazine",
+        "url": "https://www.empireonline  {
+        "name": "Interview with Empire Magazine",
+        "url": "https://www.empireonline.com/movies/features/dwayne-johnson-interview/"
+      },
+      "links": [
+        {
+          "platform": "Amazon Prime",
+          "url": "https://www.amazon.com/Godfather-Marlon-Brando/dp/B009WLRQPM"
+        },
+        {
+          "platform": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/the-godfather/umc.cmc.vxcvi5bgqedm35tuw5oid64vl"
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "type": "music",
+      "title": "AC/DC - Thunderstruck",
+      "description": "Johnson has mentioned this energetic rock anthem as a staple in his workout playlist.",
+      "image": "https://m.media-amazon.com/images/I/71hUKQUFDNL._UF1000,1000_QL80_.jpg",
+      "source": {
+        "name": "Instagram Workout Video",
+        "url": "https://www.instagram.com/p/CKHgGCxFDJi/"
+      },
+      "links": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=v2AC41dglnM"
+        }
+      ]
+    }
+  ]
+}
+

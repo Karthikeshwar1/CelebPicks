@@ -1,0 +1,118 @@
+{
+  "id": 5,
+  "name": "Keanu Reeves",
+  "slug": "keanu-reeves",
+  "title": "Actor & Philanthropist",
+  "bio": "Keanu Reeves is a Canadian actor known for his roles in The Matrix franchise, John Wick series, and many other films. He is also known for his philanthropic work and humble personality.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%2846806576944%29_%28cropped%29.jpg/330px-Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%2846806576944%29_%28cropped%29.jpg",
+  "socialMedia": [
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/keanureeves"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": 501,
+      "type": "movie",
+      "title": "Apocalypse Now",
+      "description": "Keanu has mentioned this Francis Ford Coppola classic as one of his favorite films of all time.",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "source": {
+        "name": "Interview with Esquire",
+        "url": "https://www.esquire.com/entertainment/movies/a29268978/keanu-reeves-interview-2019/"
+      },
+      "links": [
+        {
+          "platform": "Netflix",
+          "url": "https://www.netflix.com/title/70057568"
+        },
+        {
+          "platform": "Amazon Prime",
+          "url": "https://www.amazon.com/Apocalypse-Now-Marlon-Brando/dp/B002M87XTG"
+        }
+      ]
+    },
+    {
+      "id": 502,
+      "type": "music",
+      "title": "Joy Division - Love Will Tear Us Apart",
+      "description": "Keanu has expressed his love for post-punk music, particularly Joy Division.",
+      "image": "https://m.media-amazon.com/images/I/71Yz+JJFcgL._UF1000,1000_QL80_.jpg",
+      "source": {
+        "name": "Rolling Stone Interview",
+        "url": "https://www.rollingstone.com/music/music-features/keanu-reeves-interview-bill-ted-face-the-music-1047754/"
+      },
+      "links": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/1egJXBxFHfcyIiLKKZor8Q"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=zuuObGsB0No"
+        }
+      ]
+    },
+    {
+      "id": 503,
+      "type": "tv",
+      "title": "The Wire",
+      "description": "Keanu has praised this critically acclaimed crime drama series in interviews.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTllYzFhMjAtZjExNS00MjM4LWE5YmMtOGFiZGRlOTU5YzJiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+      "source": {
+        "name": "GQ Interview",
+        "url": "https://www.gq.com/story/keanu-reeves-gq-cover-story-may-2019"
+      },
+      "links": [
+        {
+          "platform": "HBO Max",
+          "url": "https://www.hbomax.com/series/urn:hbo:series:GVU2cggagzYNJjhsJATwo"
+        },
+        {
+          "platform": "Amazon Prime",
+          "url": "https://www.amazon.com/The-Wire-Season-1/dp/B003QSG7WS"
+        }
+      ]
+    },
+    {
+      "id": 504,
+      "type": "movie",
+      "title": "The Neon Demon",
+      "description": "Keanu has expressed admiration for this Nicolas Winding Refn psychological horror film.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTAyOTkxNTQ3NV5BMl5BanBnXkFtZTgwMjQ1NzQxOTE@._V1_.jpg",
+      "source": {
+        "name": "Interview with IndieWire",
+        "url": "https://www.indiewire.com/features/general/keanu-reeves-favorite-films-20200904/"
+      },
+      "links": [
+        {
+          "platform": "Amazon Prime",
+          "url": "https://www.amazon.com/Neon-Demon-Elle-Fanning/dp/B01HNGDZ30"
+        }
+      ]
+    },
+    {
+      "id": 505,
+      "type": "music",
+      "title": "Pixies - Where Is My Mind?",
+      "description": "Keanu has mentioned being a fan of the Pixies and this iconic track in particular.",
+      "image": "https://m.media-amazon.com/images/I/71Yz+JJFcgL._UF1000,1000_QL80_.jpg",
+      "source": {
+        "name": "Interview with NME",
+        "url": "https://www.nme.com/news/music/keanu-reeves-music-taste-2506272"
+      },
+      "links": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/4GyPDeuaWQxvqAXtVgbvCY"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=49FB9hhoO6c"
+        }
+      ]
+    }
+  ]
+}
+
